@@ -123,9 +123,8 @@
                 android:layout_marginRight="@dimen/horizontal_margin"
                 android:layout_marginEnd="@dimen/horizontal_margin" />
             <TextView
-                style="@style/TextContent.Black"
+                style="@style/TextContent"
                 android:text="@string/strSellerName"
-                android:textColor="@android:color/black"
                 android:layout_toRightOf="@id/profile_image"
                 android:layout_centerVertical="true"/>
         </RelativeLayout>
